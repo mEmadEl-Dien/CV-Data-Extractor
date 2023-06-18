@@ -1,2 +1,5 @@
 # CV-Data-Extractor
-A simple Python Scripting project which extracts Names, Phones, Emails, and a set of Skills given by the user from a set of given CVs, and construct a CSV file containing these data using Python libraries like re, spacy, os, sys, and pandas.
+A simple Python Scripting project which extracts:
+1) Names 2) Phones 3) Emails 3) A set of Skills given by the user from a set of given CVs.
+Then constructs a CSV file containing these extracted Data.
+This was done by using Python libraries like re, spacy, os, sys, and pandas.
